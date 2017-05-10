@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
+url: "https://weepy.github.io/"
+
 prose:
   siteurl: "https://weepy.github.io/"
